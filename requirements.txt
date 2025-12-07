@@ -1,0 +1,20 @@
+wandb
+torch
+torcheval
+torchvision
+torchaudio
+numpy
+scikit-learn
+tensorflow
+PyWavelets
+scipy
+spectrum
+seaborn
+tqdm
+# kaggle
+# mne
+ucimlrepo
+transformers
+datasets
+tf-keras
+pytest
